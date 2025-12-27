@@ -1,0 +1,15 @@
+# dependencies
+node_modules/
+
+# next build
+.next/
+out/
+
+# env files (JANGAN KEGITHUB)
+.env
+.env.local
+.env.*.local
+
+# misc
+.DS_Store
+*.log
